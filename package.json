@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "budo": "^11.6.0"
+  },
+  "scripts": {
+    "start": "budo main2.js --open --live"
+  }
+}
